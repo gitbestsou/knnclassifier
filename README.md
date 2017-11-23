@@ -1,5 +1,4 @@
 # knnclassifier
-Contains two folders for two conditions.
 
 knn_classifier1
 This is a knn classifier. This folder contains all the necessary files. Run the knn.m file and follow the instructions in command window.
